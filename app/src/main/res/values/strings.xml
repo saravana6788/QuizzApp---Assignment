@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidAssessment</string>
+    <string name="finish_quiz">Finish Quiz</string>
+    <string name="next_question">Next Question</string>
+    <string name="prev_question">Prev Question</string>
+    <string name="enter_your_answer_here">Enter your answer here</string>
+    <string name="ready_to_take_the_quiz">Ready to take the Quiz?</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="thank_you">Thank you</string>
+    <string name="retake_quiz">Retake Quiz</string>
+</resources>
